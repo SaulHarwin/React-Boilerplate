@@ -3,5 +3,5 @@ An empty project with all the configuration done to allow Babel, Webpack and Rea
 
 ## To initialize
 In a command shell run:
-`git clone /existing/project newprojectname`
+`git clone https://github.com/SaulHarwin/React-Boilerplate newprojectname`
 This will copy the contents of the repo. Then you can initialize a new repository by running `git init`. 
